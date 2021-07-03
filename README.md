@@ -1,6 +1,7 @@
 # linux-maintenance
 Maintenance terminal commands for Linux
 
+## Part 1
 ```
 sudo apt clean
 
@@ -13,6 +14,7 @@ sudo apt upgrade
 sudo apt dist-upgrade
 ```
 
+## Part 2
 ```
 sudo apt autoclean
 
