@@ -2,6 +2,8 @@
 Maintenance terminal commands for Linux
 
 ## Part 1
+Use mainly these commands:
+
 ```
 sudo apt clean
 
