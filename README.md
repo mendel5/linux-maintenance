@@ -31,12 +31,18 @@ neofetch
 
 ## Other
 ```
+Does my operating system run on UEFI or BIOS?
 #!/bin/bash
 [ -d /sys/firmware/efi ] && echo UEFI || echo BIOS
+
+List all partitions
+lsblk
 ```
 
 Source:
 - https://askubuntu.com/questions/162564/how-can-i-tell-if-my-system-was-booted-as-efi-uefi-or-bios
+- https://unix.stackexchange.com/questions/157154/how-to-list-disks-partitions-and-filesystems-in-linux
+- https://www.cyberciti.biz/faq/linux-list-disk-partitions-command/
 
 More links:
 - https://dannyda.com/2021/05/05/how-to-find-out-if-the-ubuntu-20-04-1-lts-os-disk-is-mbr-or-gpt-for-linux-debian-kali-linux-centos-fedora-etc-steps-are-very-similar-with-slightly-different-commands/
