@@ -29,6 +29,15 @@ sudo baobab
 neofetch
 ```
 
+## Other
+```
+#!/bin/bash
+[ -d /sys/firmware/efi ] && echo UEFI || echo BIOS
+```
+
+Source:
+- https://askubuntu.com/questions/162564/how-can-i-tell-if-my-system-was-booted-as-efi-uefi-or-bios
+
 
 ## Links
 - https://wiki.ubuntuusers.de/Systempflege/
