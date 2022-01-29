@@ -32,7 +32,6 @@ neofetch
 ## Other
 ```
 Does my operating system run on UEFI or BIOS?
-#!/bin/bash
 [ -d /sys/firmware/efi ] && echo UEFI || echo BIOS
 
 List all partitions
