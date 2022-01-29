@@ -30,15 +30,17 @@ neofetch
 ```
 
 ## Other
-```
 Does my operating system run on UEFI or BIOS?
+```
 [ -d /sys/firmware/efi ] && echo UEFI || echo BIOS
+```
 
-List all partitions
+List all partitions:
+```
 lsblk
 ```
 
-Source:
+Sources:
 - https://askubuntu.com/questions/162564/how-can-i-tell-if-my-system-was-booted-as-efi-uefi-or-bios
 - https://unix.stackexchange.com/questions/157154/how-to-list-disks-partitions-and-filesystems-in-linux
 - https://www.cyberciti.biz/faq/linux-list-disk-partitions-command/
