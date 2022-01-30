@@ -30,7 +30,7 @@ neofetch
 ```
 
 ## Other
-Does my operating system run on UEFI or BIOS?
+Does my operating system run in UEFI-BIOS mode or Legacy-BIOS mode?
 ```
 [ -d /sys/firmware/efi ] && echo UEFI || echo BIOS
 ```
