@@ -30,6 +30,8 @@ neofetch
 ```
 
 ## Other
+--> Move to: https://github.com/mendel5/uefi-bios
+
 Does my operating system run in UEFI-BIOS mode or Legacy-BIOS mode?
 ```
 [ -d /sys/firmware/efi ] && echo UEFI || echo BIOS
