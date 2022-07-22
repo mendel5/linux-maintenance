@@ -7,9 +7,9 @@ Use mainly these commands:
 ```
 sudo apt clean
 
-sudo apt-get autoremove --purge
-
 sudo apt update
+
+sudo apt-get autoremove --purge
 
 sudo apt upgrade
 
