@@ -9,7 +9,7 @@ sudo apt clean
 
 sudo apt update
 
-sudo apt-get autoremove --purge
+sudo apt autoremove --purge
 
 sudo apt upgrade
 
