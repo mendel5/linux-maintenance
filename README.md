@@ -9,11 +9,11 @@ sudo apt clean
 
 sudo apt update
 
-sudo apt autoremove --purge
-
 sudo apt upgrade
 
 sudo apt dist-upgrade
+
+sudo apt autoremove --purge
 ```
 
 ## Part 2
