@@ -32,3 +32,5 @@ neofetch
 ## Links
 - https://wiki.ubuntuusers.de/Systempflege/
 - https://askubuntu.com/questions/984797/clean-autoclean-and-autoremove-combining-them-is-a-good-step
+- https://arcolinux.com/how-to-increase-the-size-of-your-swapfile/
+- https://chmod-calculator.com/
